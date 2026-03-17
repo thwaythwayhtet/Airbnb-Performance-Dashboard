@@ -24,3 +24,7 @@ Please download Dataset here - https://mavenanalytics.io/data-playground/airbnb-
 [Overview](https://github.com/thwaythwayhtet/Airbnb-Performance-Dashboard/blob/main/Images/Overview%20Performance%201.png)(https://github.com/thwaythwayhtet/Airbnb-Performance-Dashboard/blob/main/Images/Overview%20Performance%202.png)
 
 
+| Overview 1 | Overview 2|
+| :---: | :---: |
+| ![Alt Text 1]([path/to/image1.png](https://github.com/thwaythwayhtet/Airbnb-Performance-Dashboard/blob/main/Images/Overview%20Performance%201.png)) | ![Alt Text 2]([path/to/image2.png](https://github.com/thwaythwayhtet/Airbnb-Performance-Dashboard/blob/main/Images/Overview%20Performance%202.png)) |
+
