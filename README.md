@@ -22,22 +22,22 @@ Please download Dataset here - https://mavenanalytics.io/data-playground/airbnb-
 
 **6. Demo** <br>
 
-6.1.1 Overview
+6.1.1 Overview <br>
  ![Overview 1](https://github.com/thwaythwayhtet/Airbnb-Performance-Dashboard/blob/main/Images/Overview%20Performance%201.png)  <br>
 
-6.1.2 Overview
+6.1.2 Overview <br>
  ![Overview 2](https://github.com/thwaythwayhtet/Airbnb-Performance-Dashboard/blob/main/Images/Overview%20Performance%202.png)
 
-6.2.1 Rating Analysis
+6.2.1 Rating Analysis <br>
  ![Rating 1](https://github.com/thwaythwayhtet/Airbnb-Performance-Dashboard/blob/main/Images/Rating%20Analysis%201.png) <br>
 
-6.2.2 Rating Analysis
+6.2.2 Rating Analysis <br>
  ![Rating 2](https://github.com/thwaythwayhtet/Airbnb-Performance-Dashboard/blob/main/Images/Rating%20Analysis%201.png) <br>
 
-6.2.1 Rating Analysis
+6.2.1 Rating Analysis <br>
  ![Rating 1](https://github.com/thwaythwayhtet/Airbnb-Performance-Dashboard/blob/main/Images/Rating%20Analysis%202.png) <br>
 
-6.3 Review Analysis
+6.3 Review Analysis <br>
  ![Review](https://github.com/thwaythwayhtet/Airbnb-Performance-Dashboard/blob/main/Images/Review%20Analysis.png)
 
  
