@@ -21,9 +21,23 @@ The output was an interactive dashboard, which provides valuable insights for bo
 Please download Dataset here - https://mavenanalytics.io/data-playground/airbnb-listings-reviews <br>
 
 **6. Demo** <br>
-* Overview 1: 
+
+6.1.1 Overview
  ![Overview 1](https://github.com/thwaythwayhtet/Airbnb-Performance-Dashboard/blob/main/Images/Overview%20Performance%201.png)  <br>
 
- * Overview 2:
+6.1.2 Overview
  ![Overview 2](https://github.com/thwaythwayhtet/Airbnb-Performance-Dashboard/blob/main/Images/Overview%20Performance%202.png)
 
+6.2.1 Rating Analysis
+ ![Rating 1](https://github.com/thwaythwayhtet/Airbnb-Performance-Dashboard/blob/main/Images/Rating%20Analysis%201.png) <br>
+
+6.2.2 Rating Analysis
+ ![Rating 2](https://github.com/thwaythwayhtet/Airbnb-Performance-Dashboard/blob/main/Images/Rating%20Analysis%201.png) <br>
+
+6.2.1 Rating Analysis
+ ![Rating 1](https://github.com/thwaythwayhtet/Airbnb-Performance-Dashboard/blob/main/Images/Rating%20Analysis%202.png) <br>
+
+6.3 Review Analysis
+ ![Review](https://github.com/thwaythwayhtet/Airbnb-Performance-Dashboard/blob/main/Images/Review%20Analysis.png)
+
+ 
